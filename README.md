@@ -1,0 +1,1 @@
+Examples of my solutions to test tasks which I made during interviews for Computer Vision/Machine Learning/Data Science positions.
