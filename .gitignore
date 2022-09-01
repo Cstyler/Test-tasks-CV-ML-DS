@@ -1,3 +1,4 @@
 *.hdf
 */.idea
 *.csv
+*/.vscode
